@@ -1,0 +1,17 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+canvas{
+    border: red solid 8px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.5) 5px 5px;
+}
